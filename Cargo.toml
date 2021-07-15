@@ -1,0 +1,11 @@
+[package]
+name = "base-encodings"
+version = "0.1.0"
+authors = ["WatchDG <baranov@w3m.co>"]
+license = "MIT OR Apache-2.0"
+description = "base encodings"
+homepage = "https://github.com/WatchDG/rust-base-encodings"
+documentation = "https://docs.rs/base-encodings"
+repository = "https://github.com/WatchDG/rust-base-encodings"
+readme = "README.md"
+edition = "2018"
