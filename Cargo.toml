@@ -9,3 +9,6 @@ documentation = "https://docs.rs/base-encodings"
 repository = "https://github.com/WatchDG/rust-base-encodings"
 readme = "README.md"
 edition = "2018"
+
+[dependencies]
+bytes = "1"
